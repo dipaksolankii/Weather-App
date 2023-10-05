@@ -9,7 +9,6 @@ const searchForm = document.querySelector("[data-searchForm ]");
 const loadingScreen = document.querySelector(".loading-container");
 
 const API_KEY = "6a26602192b32d9b1c0fcd357f07e557";
-
 // Setting defaul tab
 let currentTab = userTab;
 currentTab.classList.add("current-tab");
